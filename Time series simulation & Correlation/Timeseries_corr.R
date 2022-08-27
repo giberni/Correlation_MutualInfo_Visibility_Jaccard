@@ -2,7 +2,6 @@ library(ppcor)
 library(corrplot)
 
 
-
 ######### COLLIDER
 
 # Triplets of time series
