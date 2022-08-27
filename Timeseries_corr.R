@@ -1,10 +1,7 @@
 library(ppcor)
 library(corrplot)
 
-
-
 ######### COLLIDER
-
 # Triplets of time series
 sd <- c(0.2, 0.5, 1, 1.5, 2)
 Xtot <- list()
